@@ -1,2 +1,3 @@
 # panelcontrol
-panel de control en angular y bootstrap
+
+Crear un Panel de Control (dashboard) con Bootstrap y Angular.
